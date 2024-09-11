@@ -1221,9 +1221,9 @@ section{
   }
 }
 .about-image .about-shape {
-  background: -webkit-linear-gradient(#00956a 0%, #fff70a 100%);
-  background: -o-linear-gradient(#00956a 0%, #fff70a 100%);
-  background: linear-gradient(#00956a 0%, #fff70a 100%);
+  background: -webkit-linear-gradient(#001c14 0%, #00ffdc 100%);
+  background: -o-linear-gradient(#001c14 0%, #00ffdc 100%);
+  background: linear-gradient(#001c14 0%, #00ffdc 100%);
   width: 294px;
   height: 294px;
   border-radius: 50%;
